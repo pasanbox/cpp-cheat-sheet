@@ -375,6 +375,7 @@ unsigned int count = s.count(20);
 **Use for**
 * First-In Last-Out operations
 * Reversal of elements
+* Expression evaluation
 
 **Time Complexity**
 
@@ -537,6 +538,9 @@ p.pop();
 **Space:**
 * `O(V)`, `V = number of verticies`
 
+**Notes**
+* This can be implemented using a stack/recursion
+
 **Performance:**
 * `O(E)`, `E = number of edges`
 
@@ -558,6 +562,9 @@ p.pop();
 
 **Performance:**
 * `O(E)`, `E = number of edges`
+
+**Notes**
+* This can be implemented using a queue
 
 **Visualization:**
 
