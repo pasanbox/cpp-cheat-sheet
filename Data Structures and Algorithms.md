@@ -605,6 +605,11 @@ p.pop();
 
 #### Visualization
 
+#### Practical Uses
+* Sorting short lists
+* Sorting almost-sorted lists
+* Sorting small sub-lists in quicksort
+
 ![InsertionSort](Sorting/Animations/Insertion%20Sort.gif "Insertion Sort")
 -------------------------------------------------------
 ### 4.2 Selection Sort
